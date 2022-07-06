@@ -1,0 +1,101 @@
+newmtl default
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd default-grey.jpg
+
+newmtl None
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_hairA.png
+
+newmtl material_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_hairA.png
+
+newmtl material_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.600000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_glasses.png
+
+newmtl material_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Gen_handsWhite.png
+
+newmtl material_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd at_gen_eye_green.png
+
+newmtl material_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Gen_mouth.png
+
+newmtl material_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_Head.png
+
+newmtl material_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_uniform.png
+
+newmtl material_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_Cloak.png
+map_Ks HP3Harry_Cloak_S.png
+
+newmtl material_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd HP3Harry_Cloak.png
+map_Ks HP3Harry_Cloak_S.png
+
